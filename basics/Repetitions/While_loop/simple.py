@@ -1,0 +1,1 @@
+print("How many cables should i remove?")
